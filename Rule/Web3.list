@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,trezor.io
+DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,onekey-asset.com
 
@@ -56,6 +57,7 @@ DOMAIN-SUFFIX,alchemy.com
 DOMAIN-SUFFIX,ankr.com
 DOMAIN-SUFFIX,collab.land
 DOMAIN-SUFFIX,chainlist.org
+DOMAIN-SUFFIX,blocknative.com
 
 # nft
 DOMAIN-SUFFIX,opensea.io
@@ -76,6 +78,7 @@ DOMAIN-SUFFIX,namada.net
 DOMAIN-SUFFIX,zomma.pro
 DOMAIN-SUFFIX,consensys-nft.com
 DOMAIN-SUFFIX,tbook.com
+DOMAIN-SUFFIX,io.solutions
 
 
 
