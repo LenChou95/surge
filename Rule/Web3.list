@@ -63,7 +63,6 @@ DOMAIN-SUFFIX,blocknative.com
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,blur.io
 
-
 # other project
 DOMAIN-SUFFIX,safe.global
 DOMAIN-SUFFIX,secwarex.io
@@ -79,7 +78,6 @@ DOMAIN-SUFFIX,zomma.pro
 DOMAIN-SUFFIX,consensys-nft.com
 DOMAIN-SUFFIX,tbook.com
 DOMAIN-SUFFIX,io.solutions
-
-
-
-
+DOMAIN-SUFFIX,mirror.xyz
+DOMAIN-SUFFIX,microlancer.io
+DOMAIN-SUFFIX,sats4likes.com
