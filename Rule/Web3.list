@@ -1,29 +1,73 @@
-DOMAIN-SUFFIX,coinmarketcap.com
-DOMAIN-SUFFIX,coingecko.com
-DOMAIN-SUFFIX,alchemy.com
-DOMAIN-SUFFIX,opensea.io
-DOMAIN-SUFFIX,debank.com
-DOMAIN-SUFFIX,onekey.so
-DOMAIN-SUFFIX,onekey-asset.com
-DOMAIN-SUFFIX,bungee.exchange
-DOMAIN-SUFFIX,collab.land
-DOMAIN-SUFFIX,seadn.io
-DOMAIN-SUFFIX,safe.global
-DOMAIN-SUFFIX,utopialabs.com
-DOMAIN-SUFFIX,namada.net
-DOMAIN-SUFFIX,zomma.pro
-DOMAIN-SUFFIX,consensys-nft.com
-DOMAIN-SUFFIX,linea.build
-DOMAIN-SUFFIX,pancakeswap.finance
+# Wallet
+DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,trezor.io
+DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,onekey-asset.com
+
+# k线
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,dexscreener.com
+DOMAIN-SUFFIX,dex.guru
+DOMAIN-SUFFIX,dextools.io
+DOMAIN-SUFFIX,avedex.cc
+DOMAIN-SUFFIX,poocoin.app
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,aimoon.com
+DOMAIN-SUFFIX,birdeye.so
+DOMAIN-SUFFIX,dexlab.space
+DOMAIN-SUFFIX,solape.io
+DOMAIN-SUFFIX,coinhall.org
+DOMAIN-SUFFIX,ibccoin.org
+DOMAIN-SUFFIX,defillama.com
+
+# Swap
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,odos.xyz
+DOMAIN-SUFFIX,zerion.io
+DOMAIN-SUFFIX,pancakeswap.finance
+
+# Bridge
+DOMAIN-SUFFIX,bungee.exchange
+DOMAIN-SUFFIX,jumper.exchange
+
+# chain
+DOMAIN-SUFFIX,linea.build
+
+# scan
+DOMAIN-SUFFIX,debank.com
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,arbiscan.io
+DOMAIN-SUFFIX,polygonscan.com
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,snowtrace.io
+
+# RPC / API
+DOMAIN-SUFFIX,chinalist
+DOMAIN-SUFFIX,alchemy.com
+DOMAIN-SUFFIX,ankr.com
+DOMAIN-SUFFIX,collab.land
+
+# nft
+DOMAIN-SUFFIX,opensea.io
+
+# other project
+DOMAIN-SUFFIX,safe.global
 DOMAIN-SUFFIX,secwarex.io
 DOMAIN-SUFFIX,gopluslabs.io
 DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,mocaverse.xyz
-DOMAIN-SUFFIX,uniswap.org
-DOMAIN-SUFFIX,dexscreener.com
-DOMAIN-SUFFIX,odos.xyz
-DOMAIN-SUFFIX,zerion.io
-DOMAIN-SUFFIX,bungee.exchange
-DOMAIN-SUFFIX,jumper.exchange
+DOMAIN-SUFFIX,galxe.com
+DOMAIN-SUFFIX,galaxy.eco
+DOMAIN-SUFFIX,seadn.io
+DOMAIN-SUFFIX,utopialabs.com
+DOMAIN-SUFFIX,namada.net
+DOMAIN-SUFFIX,zomma.pro
+DOMAIN-SUFFIX,consensys-nft.com
+
+
+
+
