@@ -29,6 +29,10 @@ DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,odos.xyz
 DOMAIN-SUFFIX,zerion.io
 DOMAIN-SUFFIX,pancakeswap.finance
+DOMAIN-SUFFIX,matcha.xyz
+DOMAIN-SUFFIX,babyswap.finance
+DOMAIN-SUFFIX,dodoex.io
+DOMAIN-SUFFIX,dydx.exchange
 
 # Bridge
 DOMAIN-SUFFIX,bungee.exchange
@@ -44,15 +48,19 @@ DOMAIN-SUFFIX,arbiscan.io
 DOMAIN-SUFFIX,polygonscan.com
 DOMAIN-SUFFIX,bscscan.com
 DOMAIN-SUFFIX,snowtrace.io
+DOMAIN-SUFFIX,zkscan.io
 
-# RPC / API
+# RPC / API / Tool
 DOMAIN-SUFFIX,chinalist
 DOMAIN-SUFFIX,alchemy.com
 DOMAIN-SUFFIX,ankr.com
 DOMAIN-SUFFIX,collab.land
+DOMAIN-SUFFIX,chainlist.org
 
 # nft
 DOMAIN-SUFFIX,opensea.io
+DOMAIN-SUFFIX,blur.io
+
 
 # other project
 DOMAIN-SUFFIX,safe.global
