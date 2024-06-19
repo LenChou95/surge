@@ -38,6 +38,8 @@ DOMAIN-SUFFIX,dydx.exchange
 # Bridge
 DOMAIN-SUFFIX,bungee.exchange
 DOMAIN-SUFFIX,jumper.exchange
+DOMAIN-SUFFIX,xy.finance
+DOMAIN-SUFFIX,stargate.finance
 
 # chain
 DOMAIN-SUFFIX,linea.build
