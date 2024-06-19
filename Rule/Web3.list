@@ -77,6 +77,10 @@ DOMAIN-SUFFIX,blocknative.com
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,blur.io
 
+# BTC
+DOMAIN-SUFFIX,wizz.cash
+DOMAIN-SUFFIX,unisat.io
+
 # other project
 DOMAIN-SUFFIX,safe.global
 DOMAIN-SUFFIX,secwarex.io
