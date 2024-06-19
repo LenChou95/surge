@@ -46,7 +46,7 @@ DOMAIN-SUFFIX,xy.finance
 DOMAIN-SUFFIX,stargate.finance
 
 # Lending protocol
-DOMAIN-SUFFIX,aava.com
+DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,sentiment.xyz
 DOMAIN-SUFFIX,benqi.fi
 
