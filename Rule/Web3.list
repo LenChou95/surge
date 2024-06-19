@@ -34,12 +34,24 @@ DOMAIN-SUFFIX,matcha.xyz
 DOMAIN-SUFFIX,babyswap.finance
 DOMAIN-SUFFIX,dodoex.io
 DOMAIN-SUFFIX,dydx.exchange
+DOMAIN-SUFFIX,curve.fi
+DOMAIN-SUFFIX,sushi.com
+DOMAIN-SUFFIX,balancer.fi
+DOMAIN-SUFFIX,traderjoexyz.com
 
 # Bridge
 DOMAIN-SUFFIX,bungee.exchange
 DOMAIN-SUFFIX,jumper.exchange
 DOMAIN-SUFFIX,xy.finance
 DOMAIN-SUFFIX,stargate.finance
+
+# Lending protocol
+DOMAIN-SUFFIX,aava.com
+DOMAIN-SUFFIX,sentiment.xyz
+DOMAIN-SUFFIX,benqi.fi
+
+# Perpetual Swap
+DOMAIN-SUFFIX,gmx.io
 
 # chain
 DOMAIN-SUFFIX,linea.build
@@ -83,3 +95,5 @@ DOMAIN-SUFFIX,io.solutions
 DOMAIN-SUFFIX,mirror.xyz
 DOMAIN-SUFFIX,microlancer.io
 DOMAIN-SUFFIX,sats4likes.com
+DOMAIN-SUFFIX,sablier.com
+DOMAIN-SUFFIX,beefy.com
