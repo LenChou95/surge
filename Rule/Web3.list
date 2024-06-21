@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,stargate.finance
 DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,sentiment.xyz
 DOMAIN-SUFFIX,benqi.fi
+DOMAIN-SUFFIX,aevo.xyz
 
 # Perpetual Swap
 DOMAIN-SUFFIX,gmx.io
@@ -76,6 +77,7 @@ DOMAIN-SUFFIX,blocknative.com
 # nft
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,blur.io
+DOMAIN-SUFFIX,element.market
 
 # BTC
 DOMAIN-SUFFIX,wizz.cash
