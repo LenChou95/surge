@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,trezor.io
 DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,onekey-asset.com
+DOMAIN-SUFFIX,keplr.app
+DOMAIN-SUFFIX,keyst.one
 
 # k线
 DOMAIN-SUFFIX,coinmarketcap.com
@@ -50,12 +52,15 @@ DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,sentiment.xyz
 DOMAIN-SUFFIX,benqi.fi
 DOMAIN-SUFFIX,aevo.xyz
+DOMAIN-SUFFIX,extrafi.io
+DOMAIN-SUFFIX,kamino.finance
 
 # Perpetual Swap
 DOMAIN-SUFFIX,gmx.io
 
 # chain
 DOMAIN-SUFFIX,linea.build
+DOMAIN-SUFFIX,avax.network
 
 # scan
 DOMAIN-SUFFIX,debank.com
