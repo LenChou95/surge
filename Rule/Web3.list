@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN-SUFFIX,keplr.app
 DOMAIN-SUFFIX,keyst.one
+DOMAIN-SUFFIX,1key.so
 
 # k线
 DOMAIN-SUFFIX,coinmarketcap.com
@@ -61,15 +62,19 @@ DOMAIN-SUFFIX,gmx.io
 # chain
 DOMAIN-SUFFIX,linea.build
 DOMAIN-SUFFIX,avax.network
+DOMAIN-SUFFIX,scroll.io
+DOMAIN-SUFFIX,blast.io
 
 # scan
 DOMAIN-SUFFIX,debank.com
 DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,etherscan.com
 DOMAIN-SUFFIX,arbiscan.io
 DOMAIN-SUFFIX,polygonscan.com
 DOMAIN-SUFFIX,bscscan.com
 DOMAIN-SUFFIX,snowtrace.io
 DOMAIN-SUFFIX,zkscan.io
+
 
 # RPC / API / Tool
 DOMAIN-SUFFIX,chinalist
@@ -108,3 +113,5 @@ DOMAIN-SUFFIX,microlancer.io
 DOMAIN-SUFFIX,sats4likes.com
 DOMAIN-SUFFIX,sablier.com
 DOMAIN-SUFFIX,beefy.com
+DOMAIN-SUFFIX,friend.tech
+DOMAIN-SUFFIX,io.net
