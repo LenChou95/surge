@@ -35,13 +35,13 @@ DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,kucoin.com
-coinw.com
-coinswitch.co
-coindcx.com
-bullish.com
-bitstamp.net
-bitpanda.com
-bithumb.com
+DOMAIN-SUFFIX,coinw.com
+DOMAIN-SUFFIX,coinswitch.co
+DOMAIN-SUFFIX,coindcx.com
+DOMAIN-SUFFIX,bullish.com
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,bitpanda.com
+DOMAIN-SUFFIX,bithumb.com
 
 
 DOMAIN-SUFFIX,saasexch.cc
